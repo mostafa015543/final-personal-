@@ -152,7 +152,7 @@ p {
 
 
 .page2{
-    
+    margin-top: 100px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     gap: 25px;
@@ -176,6 +176,7 @@ p {
 }
 /* //////////////////////////////////////////////////////// */
 .page3 {
+    margin-top: 100px;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
     gap: 25px;
@@ -206,6 +207,7 @@ p {
 }
 /* //////////////////////////////////////////////////////// */
 .page4 {
+    margin-top: 100px;
     width: 100%;
     border-bottom: 2px solid #48d4ff;
 }
